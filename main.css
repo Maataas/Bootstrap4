@@ -1,0 +1,50 @@
+.spacer {
+    margin-top: 50px;
+}
+
+.ruzava {
+    background-color: pink;
+}
+
+.zydra {
+    background-color: aqua;
+}
+
+div {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+    color: white;
+}
+
+.didelis {
+    height: 400px;
+}
+
+.trumpas {
+    height: 50px
+}
+
+.violet {
+    background-color: blueviolet;
+}
+
+.aside {
+    width: 200px;
+    line-height: 13;
+}
+
+.article {
+    width: 730px;
+}
+
+.grey {
+    background-color: grey;
+    height: 158px;
+    width: 222px;
+    line-height: 5;
+}
+
+h1 {
+    margin-top: 170px;
+}
